@@ -32,7 +32,7 @@ Evaluate the progress of Covid-19 vaccinations by calculating the percentage of 
 Data Manipulation Techniques: Utilize advanced SQL techniques such as Joins, CTEs, Temp Tables, Window Functions, and Aggregate Functions 
 to perform complex calculations and analyses efficiently.
 
-View Creation: Create a view to store the analyzed data for potential visualization and further exploration.
+View Creation: Create a view to store the analyzed data in Tableau Public for potential visualization and further exploration.
 
 By conducting this analysis, we aim to gain insights into the spread and impact of Covid-19 globally and regionally, 
 as well as to track the progress of vaccination efforts in combating the pandemic.
